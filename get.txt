@@ -17,8 +17,8 @@
 /webfig/roteros.info
 /currentsetting.htm
 /index.action
+/hudson/script
 /manager/html
-/HNAP1
 /core/CHANGELOG.txt
 /phpmyadmin/index.php
 /phpMyAdmin/index.php
@@ -61,6 +61,12 @@
 /phpma/index.php
 /phpmyadmin/phpmyadmin/index.php
 /phpMyAdmin/phpMyAdmin/index.php
+/wp-includes/wlwmanifest.xml
+/site/wp-includes/wlwmanifest.xml
+/cms/wp-includes/wlwmanifest.xml
+/wp/wp-includes/wlwmanifest.xml
+/blog/wp-includes/wlwmanifest.xml
+/wordpress/wp-includes/wlwmanifest.xml
 /Netsparker47e6d60796304e3896266a923ed90055
 /server-status
 /sitemap.xml.gz
